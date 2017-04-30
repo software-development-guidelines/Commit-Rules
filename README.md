@@ -1,3 +1,6 @@
+#Commit Rules
+is a fork of [Commit Rules](https://github.com/sapioit/Commit-Rules)
+
 ## <a name="version-numbers"></a> Version Numbers
 To ensure consistency and remove ambiguity, the [Explicit Versioning](https://medium.com/p/92fc1f6bc73c)
  guidlines will be used:
